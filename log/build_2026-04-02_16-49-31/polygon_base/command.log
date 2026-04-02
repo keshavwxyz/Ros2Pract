@@ -1,2 +1,0 @@
-Invoking command in '/home/yoimtv/rosProjects/ros_ws/src/build/polygon_base': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/yoimtv/rosProjects/ros_ws/src/polygon_base -DCMAKE_INSTALL_PREFIX=/home/yoimtv/rosProjects/ros_ws/src/install/polygon_base
-Invoked command in '/home/yoimtv/rosProjects/ros_ws/src/build/polygon_base' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/yoimtv/rosProjects/ros_ws/src/polygon_base -DCMAKE_INSTALL_PREFIX=/home/yoimtv/rosProjects/ros_ws/src/install/polygon_base
